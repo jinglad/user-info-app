@@ -1,0 +1,20 @@
+.site-title{
+    text-align: center;
+    font-size: 50px;
+}
+.nav-bar{
+    background: black;
+    line-height:40px;
+}
+.nav-bar a{
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+    padding:9px;
+}
+.nav-bar a:first-child{
+    margin-left:10px;
+}
+.nav-bar a:hover{
+    color: limegreen;
+}

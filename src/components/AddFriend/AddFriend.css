@@ -1,0 +1,15 @@
+.add-friend-status{
+    padding: 15px;
+    background: brown;
+    margin-top: 15px;
+    border-radius: 5px;
+    color: white;
+    text-align: center;
+    width: 300px;
+    position: fixed;
+    transition: .5s all ease-in-out;
+}
+.add-friend-status:hover{
+    transform: scale(1.1);
+}
+

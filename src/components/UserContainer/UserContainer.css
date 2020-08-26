@@ -1,0 +1,10 @@
+.d-flex{
+    display:flex;
+}
+.float-right{
+    float:right;
+}
+.user-container{
+    width: 70%;
+    margin-left: 40px;
+}
